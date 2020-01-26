@@ -1,2 +1,2 @@
-# eu
-[Link](https://eussora.github.io/eu/)
+# eussora
+[Link](https://eussora.github.io/eussora/)
